@@ -1,0 +1,25 @@
+{
+  "name": "electron-app",
+  "version": "0.0.1",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidenzou/electron-app.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidenzou/electron-app/issues"
+  },
+  "homepage": "https://github.com/aidenzou/electron-app#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.0.2"
+  }
+}
